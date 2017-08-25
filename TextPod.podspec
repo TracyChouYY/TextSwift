@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
 
 s.name         = "TextPod"
-s.version      = "1.0.1"
+s.version      = "1.0.2"
 s.summary      = "TextTracy."
 
 
@@ -16,7 +16,7 @@ s.license      = "MIT"
 s.author             = { "TracyChouYY" => "zhouyuan_yyl@126.com" }
 
 
-s.source       = { :git => "https://github.com/TracyChouYY/TracyPodText.git", :tag => "1.0.1" }
+s.source       = { :git => "https://github.com/TracyChouYY/TracyPodText.git", :tag => "1.0.2" }
 
 
 
